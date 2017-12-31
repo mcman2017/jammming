@@ -1,5 +1,5 @@
 let  accessToken ='';
-const clientId = '108e1a55121e409eaf3f8b53ec2faf13';
+const clientId = 'xxxx--need-to-get-this-on-spotify-xxxx';
 const redirectURI = 'http://amcaniff-linux1:3000/';
 
 const Spotify = {
